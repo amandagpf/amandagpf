@@ -1,4 +1,4 @@
-#Olá, sou a Amanda! :smile:
+#<h1>Olá, sou a Amanda! :smile:</h1>
 ###Seja bem-vindo(a) ao meu GitHub!
 ###Sou amante de tecnologia, desenvolvedora front-end, entusiasta de UX/UI Design e estudante de back-and e cloud!
 ###Conheça as hard skills que estou familiarizada:
