@@ -1,10 +1,24 @@
-<h1>Hello, world! :smile:</h1>
-<h4>Seja bem-vindo(a) ao meu GitHub!</h4>
-<h4>Sou amante de tecnologia, desenvolvedora front-end, entusiasta de UX/UI Design e estudante de back-and e cloud!</h4>
-<h4>Conheça as hard skills que estou familiarizada e em constante melhoria:</h4>
-<img src="![007-js](https://github.com/amandagpf/amandagpf/assets/124813517/84b89f06-56d2-4c72-a98a-c637fe4d5632)">
-<img src="![006-html-1](https://github.com/amandagpf/amandagpf/assets/124813517/fb036aba-3f93-490a-a9d1-27de2f5bc0a5)">
-<img src="![018-css-1](https://github.com/amandagpf/amandagpf/assets/124813517/2efbe82e-d3e3-45d8-8413-e7cb320e9110)">
+<h2>Hello, world! Sou Amanda Fernandes! :smile:</h2>
+<h4>Apaixonada por tecnologia, desenvolvedora front-end, entusiasta de UX/UI Design e estudante de back-and e cloud! <br><br> Seja bem-vindo(a) ao meu GitHub!</h4>
+- Atualmente trabalho com desenvolvimento web e UX/UI Design! 💻 <br>
+- Estudo Informática para Internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 📔 <br>
+- Sou mulher cis, meus pronomes são ela/dela e pertenço a comunidade LGBT+! 🏳️‍🌈 <br><br>
 
-<h4>Conheça as hard skills que estou iniciando os estudos:</h4>
-![014-java-3](https://github.com/amandagpf/amandagpf/assets/124813517/ce274bb5-3742-40e7-999d-6c23aa679c8c)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandagpf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandagpf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display:flex;">
+<div style="display:inline_block">
+  <h4>Conheça minhas hard skills:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+</div>                    
+
+<div style="display:inline_block">
+  <h4>Conheça as principais tecnologias que estou estudando:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"/>
+</div>
+</div>
