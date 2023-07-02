@@ -7,7 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandagpf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandagpf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display:flex;">
+##
+
 <div style="display:inline_block">
   <h4>Conheça minhas hard skills:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -20,5 +21,13 @@
   <h4>Conheça as principais tecnologias que estou estudando:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+          
 </div>
+
+  ##
+
+<div>
+  <h4>Vamos nos conectar! 🚀</h4>
+  <a href="https://www.linkedin.com/in/amanda-fernandes-28a087139/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" width="40"></a>
 </div>
