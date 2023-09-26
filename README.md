@@ -1,5 +1,5 @@
 <h2>Hello, world! Sou Amanda Fernandes! :smile:</h2>
-<h4>Apaixonada por tecnologia, desenvolvedora front-end, entusiasta de UX/UI Design e estudante de back-and e cloud! <br><br> Seja bem-vindo(a) ao meu GitHub!</h4>
+<h4>Apaixonada por tecnologia, desenvolvedora back-end, entusiasta de UX/UI Design e estudante de cloud! <br><br> Seja bem-vindo(a) ao meu GitHub!</h4>
 - Atualmente trabalho com desenvolvimento web e UX/UI Design! 💻 <br>
 - Estudo Informática para Internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 📔 <br>
 - Sou mulher cis, meus pronomes são ela/dela e pertenço a comunidade LGBT+! 🏳️‍🌈 <br><br>
